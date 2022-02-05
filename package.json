@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "express": "^4.17.2",
+    "p5": "^1.4.1",
+    "socket.io": "^4.4.1"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "nodemon -e js"
+  },
+  "name": "gt-canvas",
+  "version": "1.0.0",
+  "main": "SERVER.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
